@@ -11,3 +11,4 @@ Q3: What trends can we see in the data? Focus on average daily rate and guests t
 
 
 ## Dashboard
+https://github.com/gowther33/Personal_projects/blob/master/Hotel%20data%20analysis/Dashboard/dashboard.PNG

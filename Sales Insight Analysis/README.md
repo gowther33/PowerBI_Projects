@@ -12,5 +12,5 @@ A computer hardware company has been facing decline in the sales as the market i
 4. Create a new table for calculating base measures.
 5. Build Dashboard.
 
-## Dashboard
-https://github.com/gowther33/Personal_projects/blob/master/Sales%20Insight%20Analysis/Dashboard/dashboard.PNG
+
+![Dashboard](https://github.com/gowther33/Personal_projects/blob/master/Sales%20Insight%20Analysis/Dashboard/dashboard.PNG)

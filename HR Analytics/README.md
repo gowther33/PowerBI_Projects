@@ -6,7 +6,7 @@ This is practice PowerBI project made from the data of AtliQ Technologies.
 
 
 # Key terms	
-![keys](https://github.com/gowther33/PowerBI_Projects/blob/master/HR%20Analytics/dashboard.PNG)
+![keys](https://github.com/gowther33/PowerBI_Projects/blob/master/HR%20Analytics/HR%20Analytics/Dashboard/images/Keys.PNG)
 
 
 
@@ -32,4 +32,4 @@ https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-workshee
 * % of employees sick for a month
 
 ## Dashboard
-![dashboard](https://github.com/gowther33/PowerBI_Projects/blob/master/HR%20Analytics/dashboard.PNG)
+![dashboard](https://github.com/gowther33/PowerBI_Projects/blob/master/HR%20Analytics/HR%20Analytics/Dashboard/images/dashboard.PNG)
